@@ -8,6 +8,24 @@
 }
 
 
-hr {
+#hr-header {
     border: 2px solid rgb(209, 172, 52); 
+}
+
+#hr-footer {
+    border: 1px solid rgb(235, 206, 113); 
+}
+
+.color-amber {
+    color:rgb(182, 137, 12);
+}
+
+h3 {
+    font-style: italic;
+    font-weight: 800;
+}
+
+body {
+    width: 70%;
+    margin: auto;
 }
