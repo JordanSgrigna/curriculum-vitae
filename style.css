@@ -4,5 +4,10 @@
 
 
 .bg-gray {
-    background-color:gray
+    background-color:rgb(206, 203, 203)
+}
+
+
+hr {
+    border: 2px solid rgb(209, 172, 52); 
 }
